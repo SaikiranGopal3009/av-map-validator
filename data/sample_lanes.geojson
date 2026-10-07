@@ -1,0 +1,35 @@
+{
+    "type": "FeatureCollection",
+    "features":[
+        {
+            "type": "Feature",
+            "properties": {
+                "lane_id": "lane_001",
+                "road_name": "Demo Avenue"
+            },
+            "geometry": {
+                "type":"LineString",
+                "coordinates": [
+                    [-87.6300, 41.8800],
+                    [-87.6295, 41.8804],
+                    [-87.6290, 41.8808]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lane_id": "lane_002",
+                "road_name": "Demo Avenue"
+            },
+            "geometry": {
+                "type":"LineString",
+                "coordinates": [
+                    [-87.6298, 41.8798],
+                    [-87.6293, 41.8802],
+                    [-87.6288, 41.8806]
+                ]
+            }
+        }
+    ]
+}
